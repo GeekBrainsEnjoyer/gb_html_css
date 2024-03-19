@@ -30,3 +30,8 @@ a {
   font-size: 36px;
   line-height: 80px;
 }
+
+.card {
+  max-width: 300px;
+  height: auto;
+}
